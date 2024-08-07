@@ -4,6 +4,8 @@ from datetime import datetime,timedelta
 import logging
 import os
 
+# */5 * * * * /home/tensor/vaib/imd_radar/env/bin/python3  /home/tensor/vaib/imd_radar/main_run.py
+
 import requests
 
 home_path = '/home/tensor/vaib/imd_radar'
@@ -39,7 +41,7 @@ for x in locations:
         link = f"https://mausam.imd.gov.in/Radar/{y}_{locations_dict[x]}.gif"
         resp = requests.get(link, stream=True)
         if resp.status_code == 200:
-            with open(os.path.join(target,{x},y,f'{y}_{x}_{format_timestamp}.gif'),'wb') as f:
+            with open(os.path.join(target,x,y,f'{y}_{x}_{format_timestamp}.gif'),'wb') as f:
                 resp.raw.decode_content = True
                 shutil.copyfileobj(resp.raw, f)
                 logging.info(f"{y};{x};{now_timestamp}")
