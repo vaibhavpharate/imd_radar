@@ -46,10 +46,12 @@
 }).addTo(map);
 
     // Adding the radar layer
-    var imageUrl = '/home/tensor/vaib/imd_radar/target_processed/delhi/ppi/ppi_delhi_20240813T1340eeeee.png',
+    var imageUrl = '/home/tensor/vaib/imd_radar/target_processed/delhi/caz/caz_delhi_20240813T1530eeeee.png',
 
-
-    imageBounds = [[29.71267,75.94796], [27.46667,78.49596]];
+    // 719 [29.71267,75.94796], [27.46667,78.49596] 
+    // ppi sri [29.26367,76.45696], [27.91567,77.98696] | 9.54
+    // caz [29.71267,75.94796],[27.46667,78.49596] | 8.47
+    imageBounds = [[29.71267,75.94796],[27.46667,78.49596]];
     const overlay = L.imageOverlay(imageUrl, imageBounds, {
           crossOrigin: false,
           interactive: true
