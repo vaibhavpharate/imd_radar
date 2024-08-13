@@ -2,3 +2,6 @@ target/
 /target/
 env/
 caz_lgs.log
+/target_processed
+target_processed/
+processed_images.log

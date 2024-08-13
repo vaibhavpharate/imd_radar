@@ -4,7 +4,8 @@ from datetime import datetime,timedelta
 import logging
 import os
 
-# */5 * * * * /home/tensor/vaib/imd_radar/env/bin/python3  /home/tensor/vaib/imd_radar/main_run.py
+# 5-55/10 * * * * /home/tensor/vaib/imd_radar/env/bin/python3.11  /home/tensor/vaib/imd_radar/main_run.py
+# 5,15,25,35,45,55 * * * * /home/tensor/vaib/imd_radar/env/bin/python3.11  /home/tensor/vaib/imd_radar/main_run.py
 
 import requests
 
@@ -19,8 +20,8 @@ logging.basicConfig(filename="caz_lgs.log", filemode="w",
 
 
 types_frames = ['caz','sri','ppi']
-locations = ['delhi','patna']
-locations_dict = {'delhi':'delhi','patna':'ptn'}
+locations = ['delhi','patna','mumbai']
+locations_dict = {'delhi':'delhi','patna':'ptn','mumbai':'vrv'}
 # logging.info("This is a debug message")
 
 
@@ -35,17 +36,21 @@ for x in locations:
 # pd.read_csv('caz_lgs.log',delimiter=";",header=None)
 import shutil
 now_timestamp = datetime.now()
-format_timestamp = now_timestamp.strftime("%Y%m%dT%H%M%S")
+minus_tmstp = now_timestamp - timedelta(minutes=25)
+format_timestamp = minus_tmstp.strftime("%Y%m%dT%H%M")
 for x in locations:
     for y in types_frames:
         link = f"https://mausam.imd.gov.in/Radar/{y}_{locations_dict[x]}.gif"
         resp = requests.get(link, stream=True)
         if resp.status_code == 200:
-            with open(os.path.join(target,x,y,f'{y}_{x}_{format_timestamp}.gif'),'wb') as f:
+            file_name = f'{y}_{x}_{format_timestamp}.gif'
+            with open(os.path.join(target,x,y,file_name),'wb') as f:
+                print("This")
                 resp.raw.decode_content = True
                 shutil.copyfileobj(resp.raw, f)
-                logging.info(f"{y};{x};{now_timestamp}")
-
+                logging.info(f"{y};{x};{now_timestamp};{file_name}")
         else:
             print(link)
             print("Cannot Retreat Frame")
+
+
