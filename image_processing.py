@@ -20,7 +20,7 @@ delhi_list_colors = ([58,0,160],
 [135,241,255],
 [135,241,255],
 [252,252,122],
-[255,230,0],
+[255,230,0],    
 [255,189,0],
 [255,115,0],
 [255,63,0],
@@ -29,7 +29,7 @@ delhi_list_colors = ([58,0,160],
 
 
 import logging
-home_path = '/home/tensor/vaib/imd_radar'
+home_path = '/home/ubuntu/vaib/imd_radar'
 target = os.path.join(home_path,'target')
 target_processed = os.path.join(home_path,'target_processed')
 
@@ -57,16 +57,6 @@ files_available = files_available.loc[files_available['timestamp'].str.len()<=17
 files_available['timestamp'] = files_available['timestamp'].str[:-4]
 
 files_available['timestamp'] = files_available['timestamp'].apply(get_timestamp)
-files_available['file_ini'] = files_available['files'].str[:-4]
-if os.path.exists(os.path.join(home_path,"processed_images.log")):
-    if os.path.getsize(os.path.join(home_path,"processed_images.log"))>10:
-        done_files = pd.read_csv(f'{home_path}/processed_images.log',header=None,delimiter=";")
-        # print(done_files)
-        done_files.columns = ['timestamp','files','status']
-        done_files['file_ini'] = done_files['files'].str[:-4]
-        # print(done_files)
-        done_files = list(done_files.loc[done_files['status']=='Done','file_ini'])
-        files_available = files_available.loc[~files_available['file_ini'].isin(done_files),:]
 
 unique_locations = list(files_available['location'].unique())
 unique_variables = list(files_available['variable'].unique())
@@ -90,7 +80,6 @@ def process_image(variable,location,timestamp,file_name):
         image_path = file_path
         image = Image.open(image_path)
         border_box = {'caz':caz_border_box,'ppi':ppi_border_box,'sri':sri_border_box}
-        print(file_name)
         cropped_image = image.crop(border_box[variable])
         image = cropped_image.convert('RGB')
         image_array = np.array(image)
@@ -114,12 +103,9 @@ def process_image(variable,location,timestamp,file_name):
 now_files = files_available.sort_values('timestamp',ascending=False)
 now_files = now_files.loc[now_files['location']=='delhi',:]
 for index,row in now_files.iterrows():
-    try:
-        process_image(variable=row['variable'],
-                    timestamp=row['timestamp'],
-                    location=row['location'],
-                    file_name=row['files']
-                    )
-    except Exception as e:
-        print("Error Occurred")
-        print(e)
+    # print("here")
+    process_image(variable=row['variable'],
+                  timestamp=row['timestamp'],
+                  location=row['location'],
+                  file_name=row['files']
+                  )

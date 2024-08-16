@@ -1,126 +1,125 @@
-cityname,localityname,localityId,latitude,longitude,device_type
-Delhi NCR,Sarita Vihar,ZWL005764,28.53176,77.293976,1 - Automated weather system
-Delhi NCR,Faridabad Sector 41-50,ZWL008752,28.460896,77.30476,1 - Automated weather system
-Delhi NCR,New Friends Colony,ZWL005996,28.565268,77.27497,1 - Automated weather system
-Delhi NCR,Sector 26 (Noida),ZWL005243,28.574404,77.334175,1 - Automated weather system
-Delhi NCR,New Industrial Town,ZWL009032,28.375702,77.29944,1 - Automated weather system
-Delhi NCR,Tilak Nagar,ZWL005428,28.641373,77.09469,1 - Automated weather system
-Delhi NCR,"Sector 10, Gurgaon",ZWL001073,28.436077,76.99676,1 - Automated weather system
-Delhi NCR,"Ashok Vihar, Delhi",ZWL001319,28.684452,77.174416,1 - Automated weather system
-Delhi NCR,Kalkaji,ZWL004800,28.52903,77.25894,1 - Automated weather system
-Delhi NCR,Sector 53,ZWL003118,28.442743,77.10438,1 - Automated weather system
-Delhi NCR,Sector 49,ZWL002091,28.408012,77.050064,1 - Automated weather system
-Delhi NCR,Vasundhara,ZWL002662,28.665224,77.36678,2 - Rain gauge system
-Delhi NCR,Rajinder Nagar,ZWL001404,28.640732,77.1829,1 - Automated weather system
-Delhi NCR,Safdarjung Enclave,ZWL008963,28.562609,77.19146,1 - Automated weather system
-Delhi NCR,Connaught Place,ZWL006538,28.63063,77.22064,1 - Automated weather system
-Delhi NCR,Sector 66,ZWL003075,28.380856,77.06275,1 - Automated weather system
-Delhi NCR,Sector 57,ZWL003721,28.4221,77.08274,1 - Automated weather system
-Delhi NCR,"Moti Bagh, Delhi",ZWL006396,28.575773,77.180695,1 - Automated weather system
-Delhi NCR,"Patel Nagar, Delhi",ZWL004535,28.652847,77.16791,1 - Automated weather system
-Delhi NCR,Greater Noida,ZWL008554,28.456171,77.521576,1 - Automated weather system
-Delhi NCR,"Karkardooma, Delhi",ZWL004533,28.65683,77.310555,1 - Automated weather system
-Delhi NCR,Tigaon,ZWL002179,28.41712,77.41257,1 - Automated weather system
-Delhi NCR,Sector 50 (Noida),ZWL007487,28.569103,77.364876,1 - Automated weather system
-Delhi NCR,"Vasant Kunj, Delhi",ZWL007120,28.524633,77.15121,1 - Automated weather system
-Delhi NCR,"Dwarka, Delhi",ZWL007486,28.594467,77.047745,1 - Automated weather system
-Delhi NCR,Sector 15,ZWL006287,28.457928,77.03481,1 - Automated weather system
-Delhi NCR,Mayur Vihar Phase III,ZWL002146,28.606,77.32368,1 - Automated weather system
-Delhi NCR,Crossing Republik,ZWL008405,28.635042,77.41906,1 - Automated weather system
-Delhi NCR,Sector 28,ZWL004455,28.473457,77.08753,1 - Automated weather system
-Delhi NCR,"Palam Vihar, Gurgaon",ZWL005087,28.508781,77.03351,1 - Automated weather system
-Delhi NCR,Sector 63 (Noida),ZWL009648,28.621672,77.386475,1 - Automated weather system
-Delhi NCR,"Raj Nagar, Ghaziabad",ZWL008317,28.689175,77.42898,1 - Automated weather system
-Delhi NCR,Sector 128,ZWL005878,28.526707,77.354866,1 - Automated weather system
-Delhi NCR,"Sector 56, Gurgaon",ZWL003241,28.418236,77.10186,1 - Automated weather system
-Delhi NCR,Indirapuram,ZWL007224,28.644058,77.373886,1 - Automated weather system
-Delhi NCR,Malviya Nagar,ZWL009834,28.536049,77.213455,1 - Automated weather system
-Delhi NCR,"Sector 43, Gurgaon",ZWL007284,28.454416,77.08882,1 - Automated weather system
-Delhi NCR,Sector 120 (Noida),ZWL006738,28.586855,77.39083,1 - Automated weather system
-Delhi NCR,Saket,ZWL007329,28.52317,77.20754,1 - Automated weather system
-Delhi NCR,Sector 18 (Noida),ZWL001752,28.568937,77.32442,2 - Rain gauge system
-Delhi NCR,Naraina,ZWL007594,28.62748,77.14211,2 - Rain gauge system
-Delhi NCR,Patparganj,ZWL006116,28.632961,77.30834,1 - Automated weather system
-Delhi NCR,Ghitorni,ZWL009925,28.486412,77.12537,1 - Automated weather system
-Delhi NCR,Faridabad Sector 1-11,ZWL009335,28.365131,77.32616,1 - Automated weather system
-Delhi NCR,Sector 24,ZWL009638,28.49742,77.09098,1 - Automated weather system
-Delhi NCR,Rajouri Garden,ZWL005670,28.646439,77.12236,2 - Rain gauge system
-Delhi NCR,Vishnu Garden,ZWL003757,28.646933,77.09506,1 - Automated weather system
-Delhi NCR,"Sector 48, Gurgaon",ZWL003610,28.416008,77.032166,1 - Automated weather system
-Delhi NCR,Kirti Nagar,ZWL005971,28.654432,77.142365,1 - Automated weather system
-Delhi NCR,Faridabad Sector 81-89,ZWL003626,28.397247,77.345566,1 - Automated weather system
-Delhi NCR,GK I,ZWL005876,28.55091,77.235275,1 - Automated weather system
-Delhi NCR,Mohan Estate,ZWL006295,28.494787,77.31273,1 - Automated weather system
-Delhi NCR,Mukherjee Nagar,ZWL007653,28.70297,77.20974,1 - Automated weather system
-Delhi NCR,Mehrauli,ZWL006697,28.524426,77.184,2 - Rain gauge system
-Delhi NCR,Burari,ZWL003259,28.75367,77.19104,1 - Automated weather system
-Delhi NCR,"Gaur city, Ghaziabad",ZWL004759,28.607702,77.43439,1 - Automated weather system
-Delhi NCR,GK II,ZWL004477,28.533936,77.2438,1 - Automated weather system
-Delhi NCR,Rohini,ZWL005077,28.723713,77.1046,2 - Rain gauge system
-Delhi NCR,Rangpuri,ZWL008191,28.533976,77.119514,1 - Automated weather system
-Delhi NCR,Sector 46,ZWL006092,28.438585,77.060776,1 - Automated weather system
-Delhi NCR,Sector 62 (Noida),ZWL001549,28.611088,77.36965,2 - Rain gauge system
-Delhi NCR,Shalimar Bagh,ZWL001036,28.720312,77.16485,1 - Automated weather system
-Delhi NCR,Model Town,ZWL006996,28.717232,77.19464,1 - Automated weather system
-Delhi NCR,Faridabad Sector 16-20,ZWL007566,28.422438,77.31011,1 - Automated weather system
-Delhi NCR,Sector 2 (Noida),ZWL009852,28.581459,77.31672,1 - Automated weather system
-Delhi NCR,Govindpuram,ZWL008648,28.689318,77.48693,2 - Rain gauge system
-Delhi NCR,Gwal Pahari,ZWL009728,28.435122,77.13631,1 - Automated weather system
-Delhi NCR,Nehru Nagar,ZWL006868,28.65344,77.44997,2 - Rain gauge system
-Delhi NCR,Chittaranjan Park,ZWL002067,28.53753,77.24907,1 - Automated weather system
-Delhi NCR,IMT Manesar,ZWL008791,28.384493,76.94195,1 - Automated weather system
-Delhi NCR,Sector 73 Z Kitchen,ZWL003043,28.580105,77.38544,2 - Rain gauge system
-Delhi NCR,Sector 51,ZWL004159,28.430042,77.065216,1 - Automated weather system
-Delhi NCR,Ballabhgarh,ZWL005960,28.343048,77.330315,2 - Rain gauge system
-Delhi NCR,Nangloi,ZWL009293,28.659525,77.0608,1 - Automated weather system
-Delhi NCR,Uttam Nagar,ZWL001663,28.616774,77.05714,1 - Automated weather system
-Delhi NCR,Sector 47,ZWL005762,28.424524,77.050064,2 - Rain gauge system
-Delhi NCR,Paharganj,ZWL005345,28.645111,77.21282,1 - Automated weather system
-Delhi NCR,Sector 25,ZWL008225,28.484268,77.084694,1 - Automated weather system
-Delhi NCR,Pitampura,ZWL001933,28.688725,77.13822,1 - Automated weather system
-Delhi NCR,Shahdara,ZWL003591,28.688658,77.27827,1 - Automated weather system
-Delhi NCR,Sector 31,ZWL007061,28.442945,77.0572,1 - Automated weather system
-Delhi NCR,Sector 23,ZWL008476,28.50908,77.05714,1 - Automated weather system
-Delhi NCR,Sector 12 (Noida),ZWL009008,28.599953,77.343185,1 - Automated weather system
-Delhi NCR,Mayur Vihar Phase II,ZWL005323,28.613695,77.30277,1 - Automated weather system
-Delhi NCR,Faridabad Sector 12-15,ZWL001412,28.394335,77.32401,1 - Automated weather system
-Delhi NCR,DLF PHASE 1 (SECTOR 26),ZWL005925,28.47791,77.10384,1 - Automated weather system
-Delhi NCR,Laxmi Nagar,ZWL008716,28.627365,77.2792,1 - Automated weather system
-Delhi NCR,Karol Bagh,ZWL009339,28.647924,77.19046,1 - Automated weather system
-Delhi NCR,Chhatarpur,ZWL009096,28.497204,77.17163,1 - Automated weather system
-Delhi NCR,Paschim Vihar,ZWL006720,28.66559,77.09848,2 - Rain gauge system
-Delhi NCR,"Sector 1, Noida",ZWL002908,28.573664,77.41543,1 - Automated weather system
-Delhi NCR,South Extension I,ZWL001186,28.578499,77.223625,1 - Automated weather system
-Delhi NCR,Sector 18,ZWL004789,28.49529,77.06973,1 - Automated weather system
-Delhi NCR,Kamla Nagar,ZWL008978,28.676018,77.20844,1 - Automated weather system
-Delhi NCR,Janakpuri,ZWL007903,28.62343,77.09782,2 - Rain gauge system
-Delhi NCR,Vikaspuri,ZWL008897,28.645655,77.065926,1 - Automated weather system
-Delhi NCR,Najafgarh,ZWL007431,28.607458,76.99598,2 - Rain gauge system
-Delhi NCR,Mayur Vihar Phase 1,ZWL001112,28.60996,77.296135,1 - Automated weather system
-Delhi NCR,Sez Noida 1,ZWL008649,28.507448,77.41009,2 - Rain gauge system
-Delhi NCR,"Gulavali, Noida",ZWL006384,28.436941,77.4569,1 - Automated weather system
-Delhi NCR,Sector 14,ZWL007840,28.471739,77.04547,1 - Automated weather system
-Delhi NCR,Sector 76(Noida),ZWL002072,28.570827,77.39043,1 - Automated weather system
-Delhi NCR,Green Park,ZWL003077,28.56298,77.20973,1 - Automated weather system
-Delhi NCR,Munirka,ZWL005395,28.554396,77.17255,1 - Automated weather system
-Delhi NCR,NEHRU PLACE,ZWL005729,28.555622,77.25089,1 - Automated weather system
-Delhi NCR,Lajpat Nagar,ZWL005736,28.565414,77.24722,1 - Automated weather system
-Delhi NCR,Sector 52 (Noida),ZWL007212,28.595741,77.36299,1 - Automated weather system
-Delhi NCR,Sector 100 (Noida),ZWL004803,28.547583,77.37095,1 - Automated weather system
-Delhi NCR,Sector 50,ZWL003444,28.418947,77.05958,1 - Automated weather system
-Delhi NCR,Dilshad Garden,ZWL008293,28.684685,77.320984,1 - Automated weather system
-Delhi NCR,"Sector 29, Gurgaon",ZWL007308,28.459497,77.06104,1 - Automated weather system
-Delhi NCR,SUSHANT LOK 1,ZWL008219,28.467922,77.07653,1 - Automated weather system
-Delhi NCR,SAHIBABAD,ZWL006234,28.68292,77.36282,1 - Automated weather system
-Delhi NCR,Sector 45 (Noida),ZWL007666,28.555595,77.34571,1 - Automated weather system
-Delhi NCR,Sector 84,ZWL002490,28.395433,76.96744,1 - Automated weather system
-Delhi NCR,"Sector 7, Gurgaon",ZWL007138,28.476288,77.01337,1 - Automated weather system
-Delhi NCR,Sector 27,ZWL009706,28.46526,77.08574,1 - Automated weather system
-Delhi NCR,Hauz Khas,ZWL001267,28.551132,77.2114,1 - Automated weather system
-Delhi NCR,Jangpura,ZWL003552,28.58363,77.24692,1 - Automated weather system
-Delhi NCR,"Sector 52, Gurgaon",ZWL008401,28.443857,77.08399,1 - Automated weather system
-Delhi NCR,"Vaishali, Ghaziabad",ZWL001758,28.649376,77.33661,1 - Automated weather system
-Delhi NCR,Research and Innovation,RRRRRRR,28.5433498,77.187352,
-Delhi NCR,Vaibhav Place,VVVVVVV,,,
-Delhi NCR,Sanaj Home,SSSSSSS,,,
-Delhi NCR,Faizan Home,FZFZFZFZ,,,
+cityname,localityname,localityId,latitude,longitude,device_type,caz_x,caz_y,ppi_x,ppi_y,sri_x,sri_y
+Delhi NCR,Sarita Vihar,ZWL005764,28.53176,77.293976,1 - Automated weather system,375,374,393,390,393,390
+Delhi NCR,Faridabad Sector 41-50,ZWL008752,28.460896,77.30476,1 - Automated weather system,377,391,398,428,398,428
+Delhi NCR,New Friends Colony,ZWL005996,28.565268,77.27497,1 - Automated weather system,371,365,384,372,384,372
+Delhi NCR,Sector 26 (Noida),ZWL005243,28.574404,77.334175,1 - Automated weather system,384,363,412,367,412,367
+Delhi NCR,New Industrial Town,ZWL009032,28.375702,77.29944,1 - Automated weather system,376,413,395,473,395,473
+Delhi NCR,Tilak Nagar,ZWL005428,28.641373,77.09469,1 - Automated weather system,331,346,299,331,299,331
+Delhi NCR,"Sector 10, Gurgaon",ZWL001073,28.436077,76.99676,1 - Automated weather system,309,398,254,441,254,441
+Delhi NCR,"Ashok Vihar, Delhi",ZWL001319,28.684452,77.174416,1 - Automated weather system,348,335,337,308,337,308
+Delhi NCR,Kalkaji,ZWL004800,28.52903,77.25894,1 - Automated weather system,367,374,376,391,376,391
+Delhi NCR,Sector 53,ZWL003118,28.442743,77.10438,1 - Automated weather system,333,396,304,437,304,437
+Delhi NCR,Sector 49,ZWL002091,28.408012,77.050064,1 - Automated weather system,321,405,279,456,279,456
+Delhi NCR,Vasundhara,ZWL002662,28.665224,77.36678,2 - Rain gauge system,391,340,427,319,427,319
+Delhi NCR,Rajinder Nagar,ZWL001404,28.640732,77.1829,1 - Automated weather system,350,346,341,332,341,332
+Delhi NCR,Safdarjung Enclave,ZWL008963,28.562609,77.19146,1 - Automated weather system,352,366,345,373,345,373
+Delhi NCR,Connaught Place,ZWL006538,28.63063,77.22064,1 - Automated weather system,359,349,358,337,358,337
+Delhi NCR,Sector 66,ZWL003075,28.380856,77.06275,1 - Automated weather system,324,412,284,470,284,470
+Delhi NCR,Sector 57,ZWL003721,28.4221,77.08274,1 - Automated weather system,328,401,294,448,294,448
+Delhi NCR,"Moti Bagh, Delhi",ZWL006396,28.575773,77.180695,1 - Automated weather system,350,362,340,366,340,366
+Delhi NCR,"Patel Nagar, Delhi",ZWL004535,28.652847,77.16791,1 - Automated weather system,347,343,334,325,334,325
+Delhi NCR,Greater Noida,ZWL008554,28.456171,77.521576,1 - Automated weather system,425,393,499,430,499,430
+Delhi NCR,"Karkardooma, Delhi",ZWL004533,28.65683,77.310555,1 - Automated weather system,379,342,400,323,400,323
+Delhi NCR,Tigaon,ZWL002179,28.41712,77.41257,1 - Automated weather system,401,402,448,451,448,451
+Delhi NCR,Sector 50 (Noida),ZWL007487,28.569103,77.364876,1 - Automated weather system,391,364,426,370,426,370
+Delhi NCR,"Vasant Kunj, Delhi",ZWL007120,28.524633,77.15121,1 - Automated weather system,343,375,326,394,326,394
+Delhi NCR,"Dwarka, Delhi",ZWL007486,28.594467,77.047745,1 - Automated weather system,320,358,277,356,277,356
+Delhi NCR,Sector 15,ZWL006287,28.457928,77.03481,1 - Automated weather system,318,392,271,429,271,429
+Delhi NCR,Mayur Vihar Phase III,ZWL002146,28.606,77.32368,1 - Automated weather system,381,355,407,350,407,350
+Delhi NCR,Crossing Republik,ZWL008405,28.635042,77.41906,1 - Automated weather system,403,348,451,335,451,335
+Delhi NCR,Sector 28,ZWL004455,28.473457,77.08753,1 - Automated weather system,329,388,296,421,296,421
+Delhi NCR,"Palam Vihar, Gurgaon",ZWL005087,28.508781,77.03351,1 - Automated weather system,317,379,271,402,271,402
+Delhi NCR,Sector 63 (Noida),ZWL009648,28.621672,77.386475,1 - Automated weather system,395,351,436,342,436,342
+Delhi NCR,"Raj Nagar, Ghaziabad",ZWL008317,28.689175,77.42898,1 - Automated weather system,405,334,456,306,456,306
+Delhi NCR,Sector 128,ZWL005878,28.526707,77.354866,1 - Automated weather system,388,375,421,393,421,393
+Delhi NCR,"Sector 56, Gurgaon",ZWL003241,28.418236,77.10186,1 - Automated weather system,332,402,303,450,303,450
+Delhi NCR,Indirapuram,ZWL007224,28.644058,77.373886,1 - Automated weather system,393,345,430,330,430,330
+Delhi NCR,Malviya Nagar,ZWL009834,28.536049,77.213455,1 - Automated weather system,357,372,355,388,355,388
+Delhi NCR,"Sector 43, Gurgaon",ZWL007284,28.454416,77.08882,1 - Automated weather system,330,393,297,431,297,431
+Delhi NCR,Sector 120 (Noida),ZWL006738,28.586855,77.39083,1 - Automated weather system,396,360,438,361,438,361
+Delhi NCR,Saket,ZWL007329,28.52317,77.20754,1 - Automated weather system,356,376,352,394,352,394
+Delhi NCR,Sector 18 (Noida),ZWL001752,28.568937,77.32442,2 - Rain gauge system,382,364,407,370,407,370
+Delhi NCR,Naraina,ZWL007594,28.62748,77.14211,2 - Rain gauge system,341,349,322,339,322,339
+Delhi NCR,Patparganj,ZWL006116,28.632961,77.30834,1 - Automated weather system,378,348,399,336,399,336
+Delhi NCR,Ghitorni,ZWL009925,28.486412,77.12537,1 - Automated weather system,338,385,314,414,314,414
+Delhi NCR,Faridabad Sector 1-11,ZWL009335,28.365131,77.32616,1 - Automated weather system,382,416,408,479,408,479
+Delhi NCR,Sector 24,ZWL009638,28.49742,77.09098,1 - Automated weather system,330,382,298,408,298,408
+Delhi NCR,Rajouri Garden,ZWL005670,28.646439,77.12236,2 - Rain gauge system,337,345,312,329,312,329
+Delhi NCR,Vishnu Garden,ZWL003757,28.646933,77.09506,1 - Automated weather system,331,345,300,328,300,328
+Delhi NCR,"Sector 48, Gurgaon",ZWL003610,28.416008,77.032166,1 - Automated weather system,317,403,270,452,270,452
+Delhi NCR,Kirti Nagar,ZWL005971,28.654432,77.142365,1 - Automated weather system,341,343,322,324,322,324
+Delhi NCR,Faridabad Sector 81-89,ZWL003626,28.397247,77.345566,1 - Automated weather system,386,407,417,462,417,462
+Delhi NCR,GK I,ZWL005876,28.55091,77.235275,1 - Automated weather system,362,369,365,380,365,380
+Delhi NCR,Mohan Estate,ZWL006295,28.494787,77.31273,1 - Automated weather system,379,383,401,410,401,410
+Delhi NCR,Mukherjee Nagar,ZWL007653,28.70297,77.20974,1 - Automated weather system,356,330,353,299,353,299
+Delhi NCR,Mehrauli,ZWL006697,28.524426,77.184,2 - Rain gauge system,351,375,341,394,341,394
+Delhi NCR,Burari,ZWL003259,28.75367,77.19104,1 - Automated weather system,352,318,345,272,345,272
+Delhi NCR,"Gaur city, Ghaziabad",ZWL004759,28.607702,77.43439,1 - Automated weather system,406,354,458,349,458,349
+Delhi NCR,GK II,ZWL004477,28.533936,77.2438,1 - Automated weather system,364,373,369,389,369,389
+Delhi NCR,Rohini,ZWL005077,28.723713,77.1046,2 - Rain gauge system,333,325,304,288,304,288
+Delhi NCR,Rangpuri,ZWL008191,28.533976,77.119514,1 - Automated weather system,336,373,311,389,311,389
+Delhi NCR,Sector 46,ZWL006092,28.438585,77.060776,1 - Automated weather system,323,397,284,440,284,440
+Delhi NCR,Sector 62 (Noida),ZWL001549,28.611088,77.36965,2 - Rain gauge system,392,354,428,348,428,348
+Delhi NCR,Shalimar Bagh,ZWL001036,28.720312,77.16485,1 - Automated weather system,346,326,332,289,332,289
+Delhi NCR,Model Town,ZWL006996,28.717232,77.19464,1 - Automated weather system,353,327,346,291,346,291
+Delhi NCR,Faridabad Sector 16-20,ZWL007566,28.422438,77.31011,1 - Automated weather system,378,401,400,448,400,448
+Delhi NCR,Sector 2 (Noida),ZWL009852,28.581459,77.31672,1 - Automated weather system,380,361,403,363,403,363
+Delhi NCR,Govindpuram,ZWL008648,28.689318,77.48693,2 - Rain gauge system,418,334,483,306,483,306
+Delhi NCR,Gwal Pahari,ZWL009728,28.435122,77.13631,1 - Automated weather system,340,398,319,441,319,441
+Delhi NCR,Nehru Nagar,ZWL006868,28.65344,77.44997,2 - Rain gauge system,409,343,466,325,466,325
+Delhi NCR,Chittaranjan Park,ZWL002067,28.53753,77.24907,1 - Automated weather system,365,372,372,387,372,387
+Delhi NCR,IMT Manesar,ZWL008791,28.384493,76.94195,1 - Automated weather system,297,411,228,468,228,468
+Delhi NCR,Sector 73 Z Kitchen,ZWL003043,28.580105,77.38544,2 - Rain gauge system,395,361,436,364,436,364
+Delhi NCR,Sector 51,ZWL004159,28.430042,77.065216,1 - Automated weather system,324,399,286,444,286,444
+Delhi NCR,Ballabhgarh,ZWL005960,28.343048,77.330315,2 - Rain gauge system,383,421,410,490,410,490
+Delhi NCR,Nangloi,ZWL009293,28.659525,77.0608,1 - Automated weather system,323,341,284,322,284,322
+Delhi NCR,Uttam Nagar,ZWL001663,28.616774,77.05714,1 - Automated weather system,323,352,282,345,282,345
+Delhi NCR,Sector 47,ZWL005762,28.424524,77.050064,2 - Rain gauge system,321,401,279,447,279,447
+Delhi NCR,Paharganj,ZWL005345,28.645111,77.21282,1 - Automated weather system,357,345,355,329,355,329
+Delhi NCR,Sector 25,ZWL008225,28.484268,77.084694,1 - Automated weather system,329,386,295,415,295,415
+Delhi NCR,Pitampura,ZWL001933,28.688725,77.13822,1 - Automated weather system,340,334,320,306,320,306
+Delhi NCR,Shahdara,ZWL003591,28.688658,77.27827,1 - Automated weather system,371,334,385,306,385,306
+Delhi NCR,Sector 31,ZWL007061,28.442945,77.0572,1 - Automated weather system,323,396,282,437,282,437
+Delhi NCR,Sector 23,ZWL008476,28.50908,77.05714,1 - Automated weather system,323,379,282,402,282,402
+Delhi NCR,Sector 12 (Noida),ZWL009008,28.599953,77.343185,1 - Automated weather system,386,356,416,354,416,354
+Delhi NCR,Mayur Vihar Phase II,ZWL005323,28.613695,77.30277,1 - Automated weather system,377,353,397,346,397,346
+Delhi NCR,Faridabad Sector 12-15,ZWL001412,28.394335,77.32401,1 - Automated weather system,382,408,407,463,407,463
+Delhi NCR,DLF PHASE 1 (SECTOR 26),ZWL005925,28.47791,77.10384,1 - Automated weather system,333,387,304,419,304,419
+Delhi NCR,Laxmi Nagar,ZWL008716,28.627365,77.2792,1 - Automated weather system,372,350,386,339,386,339
+Delhi NCR,Karol Bagh,ZWL009339,28.647924,77.19046,1 - Automated weather system,352,344,344,328,344,328
+Delhi NCR,Chhatarpur,ZWL009096,28.497204,77.17163,1 - Automated weather system,348,382,335,408,335,408
+Delhi NCR,Paschim Vihar,ZWL006720,28.66559,77.09848,2 - Rain gauge system,332,340,301,319,301,319
+Delhi NCR,"Sector 1, Noida",ZWL002908,28.573664,77.41543,1 - Automated weather system,402,363,450,368,450,368
+Delhi NCR,South Extension I,ZWL001186,28.578499,77.223625,1 - Automated weather system,359,362,360,365,360,365
+Delhi NCR,Sector 18,ZWL004789,28.49529,77.06973,1 - Automated weather system,325,383,288,409,288,409
+Delhi NCR,Kamla Nagar,ZWL008978,28.676018,77.20844,1 - Automated weather system,356,337,353,313,353,313
+Delhi NCR,Janakpuri,ZWL007903,28.62343,77.09782,2 - Rain gauge system,332,351,301,341,301,341
+Delhi NCR,Vikaspuri,ZWL008897,28.645655,77.065926,1 - Automated weather system,325,345,286,329,286,329
+Delhi NCR,Najafgarh,ZWL007431,28.607458,76.99598,2 - Rain gauge system,309,355,253,350,253,350
+Delhi NCR,Mayur Vihar Phase 1,ZWL001112,28.60996,77.296135,1 - Automated weather system,375,354,394,348,394,348
+Delhi NCR,Sez Noida 1,ZWL008649,28.507448,77.41009,2 - Rain gauge system,401,380,447,403,447,403
+Delhi NCR,"Gulavali, Noida",ZWL006384,28.436941,77.4569,1 - Automated weather system,411,397,469,440,469,440
+Delhi NCR,Sector 14,ZWL007840,28.471739,77.04547,1 - Automated weather system,320,389,276,422,276,422
+Delhi NCR,Sector 76(Noida),ZWL002072,28.570827,77.39043,1 - Automated weather system,396,364,438,369,438,369
+Delhi NCR,Green Park,ZWL003077,28.56298,77.20973,1 - Automated weather system,356,366,353,373,353,373
+Delhi NCR,Munirka,ZWL005395,28.554396,77.17255,1 - Automated weather system,348,368,336,378,336,378
+Delhi NCR,NEHRU PLACE,ZWL005729,28.555622,77.25089,1 - Automated weather system,365,368,373,377,373,377
+Delhi NCR,Lajpat Nagar,ZWL005736,28.565414,77.24722,1 - Automated weather system,365,365,371,372,371,372
+Delhi NCR,Sector 52 (Noida),ZWL007212,28.595741,77.36299,1 - Automated weather system,390,357,425,356,425,356
+Delhi NCR,Sector 100 (Noida),ZWL004803,28.547583,77.37095,1 - Automated weather system,392,370,429,381,429,381
+Delhi NCR,Sector 50,ZWL003444,28.418947,77.05958,1 - Automated weather system,323,402,283,450,283,450
+Delhi NCR,Dilshad Garden,ZWL008293,28.684685,77.320984,1 - Automated weather system,381,335,405,308,405,308
+Delhi NCR,"Sector 29, Gurgaon",ZWL007308,28.459497,77.06104,1 - Automated weather system,323,392,284,428,284,428
+Delhi NCR,SUSHANT LOK 1,ZWL008219,28.467922,77.07653,1 - Automated weather system,327,390,291,424,291,424
+Delhi NCR,SAHIBABAD,ZWL006234,28.68292,77.36282,1 - Automated weather system,390,336,425,309,425,309
+Delhi NCR,Sector 45 (Noida),ZWL007666,28.555595,77.34571,1 - Automated weather system,386,368,417,377,417,377
+Delhi NCR,Sector 84,ZWL002490,28.395433,76.96744,1 - Automated weather system,303,408,240,463,240,463
+Delhi NCR,"Sector 7, Gurgaon",ZWL007138,28.476288,77.01337,1 - Automated weather system,313,388,261,419,261,419
+Delhi NCR,Sector 27,ZWL009706,28.46526,77.08574,1 - Automated weather system,329,390,295,425,295,425
+Delhi NCR,Hauz Khas,ZWL001267,28.551132,77.2114,1 - Automated weather system,357,369,354,380,354,380
+Delhi NCR,Jangpura,ZWL003552,28.58363,77.24692,1 - Automated weather system,365,361,371,362,371,362
+Delhi NCR,"Sector 52, Gurgaon",ZWL008401,28.443857,77.08399,1 - Automated weather system,329,396,294,437,294,437
+Delhi NCR,"Vaishali, Ghaziabad",ZWL001758,28.649376,77.33661,1 - Automated weather system,384,344,413,327,413,327
+Delhi NCR,Research and Innovation,RRRRRRR,28.5433498,77.187352,,351,371,343,384,343,384
+Delhi NCR,Vaibhav Place,VVVVVVV,28.5189874,77.2005476,,354,377,349,397,349,397
+Delhi NCR,Faizan Home,FZFZFZFZ,28.4335,77.1503,,343,398,325,442,325,442
